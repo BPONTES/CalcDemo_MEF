@@ -1,0 +1,15 @@
+/*/obj/Debug/*
+/*/bin/Debug/*
+/*/obj/Release/*
+/*/bin/Release/*
+/*/bin/
+/*/bin/Debug/
+/*/bin/Release/
+/*/obj/Debug/TempPE
+/*/obj/Debug/
+/*/obj/Release/TempPE
+/*/obj/Release
+*.user
+*.suo
+*.pdb
+/_ReSharper.CalculatorWithExtensions
